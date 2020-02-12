@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/laszloszucs/work/sandbox/bitmap-plasma/app/.cxx/cmake/debug/x86_64",
+  "command": "/Users/laszloszucs/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=x86_64-none-linux-android21 --gcc-toolchain=/Users/laszloszucs/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/laszloszucs/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dplasma_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -Wall -Werror -Wno-unused-function -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/plasma.dir/plasma.c.o   -c /Users/laszloszucs/work/sandbox/bitmap-plasma/app/src/main/cpp/plasma.c",
+  "file": "/Users/laszloszucs/work/sandbox/bitmap-plasma/app/src/main/cpp/plasma.c"
+}
+]

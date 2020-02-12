@@ -1,0 +1,3 @@
+ninja: Entering directory `/Users/laszloszucs/work/sandbox/bitmap-plasma/app/.cxx/cmake/release/x86'
+[1/2] Building C object CMakeFiles/plasma.dir/plasma.c.o
+[2/2] Linking C shared library /Users/laszloszucs/work/sandbox/bitmap-plasma/app/build/intermediates/cmake/release/obj/x86/libplasma.so

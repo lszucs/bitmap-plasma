@@ -1,0 +1,42 @@
+{
+  "stringTable": {
+    "0": "/Users/laszloszucs/work/sandbox/bitmap-plasma/app/.cxx/cmake/release/x86_64",
+    "1": "--target=x86_64-none-linux-android21 --gcc-toolchain=/Users/laszloszucs/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/laszloszucs/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dplasma_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -Wall -Werror -Wno-unused-function -O2 -DNDEBUG -fPIC"
+  },
+  "buildFiles": [
+    "/Users/laszloszucs/Library/Android/sdk/ndk/21.0.6113669/build/cmake/android.toolchain.cmake",
+    "/Users/laszloszucs/Library/Android/sdk/ndk/21.0.6113669/build/cmake/platforms.cmake",
+    "/Users/laszloszucs/work/sandbox/bitmap-plasma/app/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/laszloszucs/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/laszloszucs/work/sandbox/bitmap-plasma/app/.cxx/cmake/release/x86_64\" clean"
+  ],
+  "buildTargetsCommand": "/Users/laszloszucs/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/laszloszucs/work/sandbox/bitmap-plasma/app/.cxx/cmake/release/x86_64\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "plasma-Release-x86_64": {
+      "buildCommand": "/Users/laszloszucs/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/laszloszucs/work/sandbox/bitmap-plasma/app/.cxx/cmake/release/x86_64\" plasma",
+      "buildType": "release",
+      "toolchain": "2285138845",
+      "abi": "x86_64",
+      "artifactName": "plasma",
+      "files": [
+        {
+          "src": "/Users/laszloszucs/work/sandbox/bitmap-plasma/app/src/main/cpp/plasma.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "/Users/laszloszucs/work/sandbox/bitmap-plasma/app/build/intermediates/cmake/release/obj/x86_64/libplasma.so"
+    }
+  },
+  "toolchains": {
+    "2285138845": {
+      "cCompilerExecutable": "/Users/laszloszucs/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang"
+    }
+  },
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": []
+}

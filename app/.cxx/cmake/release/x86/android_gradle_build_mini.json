@@ -1,0 +1,19 @@
+{
+  "buildFiles": [
+    "/Users/laszloszucs/Library/Android/sdk/ndk/21.0.6113669/build/cmake/android.toolchain.cmake",
+    "/Users/laszloszucs/Library/Android/sdk/ndk/21.0.6113669/build/cmake/platforms.cmake",
+    "/Users/laszloszucs/work/sandbox/bitmap-plasma/app/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/laszloszucs/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/laszloszucs/work/sandbox/bitmap-plasma/app/.cxx/cmake/release/x86\" clean"
+  ],
+  "buildTargetsCommand": "/Users/laszloszucs/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/laszloszucs/work/sandbox/bitmap-plasma/app/.cxx/cmake/release/x86\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "plasma-Release-x86": {
+      "artifactName": "plasma",
+      "buildCommand": "/Users/laszloszucs/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/laszloszucs/work/sandbox/bitmap-plasma/app/.cxx/cmake/release/x86\" plasma",
+      "abi": "x86",
+      "output": "/Users/laszloszucs/work/sandbox/bitmap-plasma/app/build/intermediates/cmake/release/obj/x86/libplasma.so"
+    }
+  }
+}
